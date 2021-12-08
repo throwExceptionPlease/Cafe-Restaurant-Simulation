@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"foodManagement","l":"Entree"},{"p":"foodManagement","l":"Food"},{"p":"foodManagement","l":"GUIDriver"},{"p":"foodManagement","l":"Listable"},{"p":"<Unnamed>","l":"PublicTests"},{"p":"foodManagement","l":"Restaurant"},{"p":"foodManagement","l":"SortedListOfImmutables"}];updateSearchResults();
